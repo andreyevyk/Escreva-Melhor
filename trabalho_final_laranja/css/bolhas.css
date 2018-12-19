@@ -1,0 +1,154 @@
+#tudobolhas {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	background-color: white;
+}
+#topobolhas {
+	position: fixed;
+	width: 100%;
+	height: 65px;
+	background: #4682B4;
+	border-bottom: 2px solid black;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius:15px;
+}
+#topobolhas img{
+	margin-left: 10px;
+}
+
+#topobolhas img:hover {
+	background: #EEE8AA;
+	border-radius: 20px;	
+}
+#Menu div#MenuImg div#MenuImg3 {
+	position:absolute;
+	right: 300px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg3 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg4 {
+	position:absolute;
+	right: 240px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg4 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg5 {
+	position:absolute;
+	right: 180px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg5 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg6 {
+	position:absolute;
+	right: 120px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg6 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg7 {
+	position:absolute;
+	right: 60px;
+	top:12px;
+	margin: 0;
+	color: black;
+
+}
+#Menu div#MenuImg div#MenuImg7 span:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#nomepessoa{
+	font-family:arial black;
+	font-size:1.3em;
+
+}
+#bolhas{
+	position: fixed;
+	top: 316px;
+    left: 921px;
+}
+
+#balao{
+	position: fixed;
+	left: 612px;
+    top: 68px;
+
+}
+#bubles p{
+	position: fixed;
+	font-family: arial black;
+	text-align:center;
+	font-size: 1.7em;
+	left: 680px;
+    top: 141px;
+    width: 291px;
+    color: #4682B4;
+}
+#dicas{
+	width: 522px;
+    margin-top: 58px;
+    margin-left: 79px;
+
+}
+#dicas h2{
+	text-align: center;
+}
+#caixapen1 #pen{
+	
+    top: 223px;
+    left: 48px;
+	font-size: 23px;
+	background-color: #4682B4;
+	border-radius: 5px; 
+	width: 30px;
+	height: 30px;
+	color:#FFA33F;
+	text-align:center;
+	padding-top: 3px;
+}
+#caixapen2 #pen{
+	
+    top: 344px;
+    left: 48px;
+	font-size: 23px;
+	background-color: #4682B4;
+	border-radius: 5px; 
+	width: 30px;
+	height: 30px;
+	color:#FFA33F;
+	text-align:center;
+	padding-top: 3px;
+}
+#caixapen3 #pen{
+	
+    top: 427px;
+    left: 48px;
+	font-size: 23px;
+	background-color: #4682B4;
+	border-radius: 5px; 
+	width: 30px;
+	height: 30px;
+	color:#FFA33F;
+	text-align:center;
+	padding-top: 3px;
+}

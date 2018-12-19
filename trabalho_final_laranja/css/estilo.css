@@ -1,0 +1,195 @@
+body {
+	background: black;
+}
+#tudoh {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	background-color: #00879D;
+
+}
+
+/*menu até aqui*/
+
+#slide p{
+	height: 100%
+	width:100%;
+	padding-top: 10px;
+	position: absolute;
+	text-align: justify;
+	font-size: 40px;
+	top: 100px;
+	color: white;
+}
+#p1{
+	position: absolute;
+	left: 27px;
+	width: 700px;
+	top: 195px;
+}
+#p2{
+	position: absolute;
+	left: 27px;
+	top: 254px;
+	width: 600px;
+}
+
+#img{
+	width: 100%;
+	height: 100%;
+}
+
+#caixa{
+	margin: 0 auto 0 auto;
+	width: 100%;
+}
+
+.caixa-escreva{
+	position: absolute;
+	margin-left: 100px; 
+	margin-top: 30px;
+	text-align: center;
+    width: 230px;
+    height: 199px;
+
+}
+.caixa-escreva #pen{
+	padding-top: 10px;
+	font-size: 35px;
+	color: #FFA33F;
+}
+.caixa-escreva h3{
+	color: #01889E;
+}
+
+.caixa-escreva h4{
+	color: black;
+	font-size:20px;
+	padding-top:10px;
+	text-align: justify;
+}
+
+
+.caixa-compartilhe{
+	position: absolute;
+	margin-left: 402px; 
+	margin-top: 30px;
+	text-align: center;
+    width: 230px;
+    height: 199px;
+}
+.caixa-compartilhe #share{
+	padding-top: 10px;
+	font-size: 35px;
+	color: #FFA33F;
+}
+.caixa-compartilhe h3{
+	color: #01889E;
+}
+
+.caixa-compartilhe h4{
+	color: black;
+	font-size:20px;
+	padding-top:10px;
+	text-align: justify;
+}
+
+.caixa-edite{
+	position: absolute;
+	text-align: center;
+	margin-left: 703px; 
+	margin-top: 30px;
+    width: 230px;
+    height: 199px;
+}
+.caixa-edite #edit{
+	padding-top: 10px;
+	font-size: 35px;
+	color: #FFA33F;
+}
+.caixa-edite h3{
+	color: #01889E;
+}
+
+.caixa-edite h4{
+	color: black;
+	font-size:20px;
+	padding-top:10px;
+	text-align: justify;
+}
+
+.caixa-inove{
+	margin-left: 1020px; 
+	margin-top: 30px;
+	position: absolute;
+	text-align: center;
+    width: 230px;
+    height: 199px;
+  } 
+.caixa-inove #inove{
+	padding-top: 10px;
+	font-size: 35px;
+	color: #FFA33F;
+}
+.caixa-inove h3{
+	color: #01889E;
+}
+
+.caixa-inove h4{
+	color: black;
+	font-size:20px;
+	padding-top:10px;
+	text-align: justify;
+}
+
+/* DAQUI PRA BAIXO É DA FEEDPAGE MENU*/
+
+#topohome {
+	font-family: arial black;
+	position: relative;
+	width: 100%;
+	height: 93px;
+	background: #4682B4;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius:15px;
+}
+
+#login{
+	position: absolute;
+	top: 34px;
+	left: 54%; 
+}
+#topohome input label{
+	font-family: arial;
+}
+#topohome img{
+	margin-top: 7px;
+	margin-left: 20px;
+}
+#topohome h2{
+	position: absolute;
+	left: 114px;
+    top: 11px;
+}
+
+#topo2 h1 {
+	position: fixed;
+	left: 120px;
+	top: 25px;
+	font-size: 28px;
+	margin: 0;
+	font-family: Verdana;
+}
+#topo2 img {
+	position: fixed;
+	left: 10px;
+	top: 0px;
+}
+
+/*Começa aqui a pagina escreva*/
+ 
+#nomepessoa{
+	font-family:arial black;
+	font-size:1.3em;
+
+}

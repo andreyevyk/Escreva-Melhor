@@ -1,0 +1,61 @@
+#tudocad{
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	background-color: #404E69;
+}
+
+#fundo{
+    position: absolute;
+    background-color: #4682b4;
+    border-radius: 5px;
+    border:2px solid black; 
+    font-size: 1em;
+    width: relative;
+	height: relative;
+	text-align: left;
+	left: 33%;
+	top: 130px;
+	padding-right: 11px;
+}
+#fundo label{
+	 padding-top: 3px;
+}
+
+#fundo input{
+	font-family: arial;
+	border: none;
+	border-radius: 2px;
+}
+#cadastro{
+	margin-left: 10px
+}
+#imgcad{
+	width: 100%;
+	height: 569px;
+}
+#fundo fieldset{
+	margin-top: 12px;
+}
+#topocad {
+	font-family: arial black;
+	position: relative;
+	width: 100%;
+	height: 93px;
+	background: #4682B4;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius:15px;
+}
+
+#topocad input label{
+	font-family: arial;
+}
+#topocad img{
+	margin-top: 7px;
+	margin-left: 20px;
+}
+#topocad h2{
+	position: absolute;
+	left: 114px;
+    top: 11px;
+}

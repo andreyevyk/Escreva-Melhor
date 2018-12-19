@@ -1,0 +1,128 @@
+#tudofeed {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	background-color: white;
+}
+
+#topofeed {
+	position: fixed;
+	width: 100%;
+	height: 65px;
+	background: #4682B4;
+	border-bottom: 2px solid black;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius:15px;
+}
+#topofeed img{
+	margin-left: 10px;
+
+}
+/*exibir texto*/
+
+
+#laranja{
+	position:relative;
+	width: 950px;
+	height: relative;
+	left: 200px; 
+	top:60px;
+	border-radius: 5px;
+	box-shadow: 5px 0 3px #778899, -5px 0 3px #778899;
+	background-color: #f63;
+
+}
+#azul{
+	height: relative ;
+	width: relative;
+	margin-left: 6px;
+	margin-right: 6px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color:#4682B4;
+}
+#azul img{
+	margin-left:400px; 
+	height:150px;
+	width:150px;
+}
+#azul h4{
+	text-align: center;
+}
+#azul #texto{
+	margin-bottom: 6px;
+	margin-left: 11px;
+	margin-right: 11px; 
+	border-radius: 10px;
+	padding: 5px;
+	background-color: #4682B4;
+}
+
+#azul #texto p{
+	text-align: justify;
+}
+#topofeed img:hover {
+	background: #EEE8AA;
+	border-radius: 20px;	
+}
+#Menu div#MenuImg div#MenuImg3 {
+	position:absolute;
+	right: 300px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg3 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg4 {
+	position:absolute;
+	right: 240px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg4 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg5 {
+	position:absolute;
+	right: 180px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg5 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg6 {
+	position:absolute;
+	right: 120px;
+	top:12px;
+	margin: 0;
+
+}
+#Menu div#MenuImg div#MenuImg6 img:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#Menu div#MenuImg div#MenuImg7 {
+	position:absolute;
+	right: 60px;
+	top:12px;
+	margin: 0;
+	color: black;
+
+}
+#Menu div#MenuImg div#MenuImg7 span:hover {
+	background: #5F9EA0;
+	border-radius: 5px;	
+}
+#nomepessoa{
+	font-family:arial black;
+	font-size:1.3em;
+
+}
